@@ -117,7 +117,6 @@ input {
   background: lightyellow;
   max-width: 80px;
   padding: 5px;
-
 }
 
 th, td {
@@ -149,6 +148,14 @@ th, td {
 
 /* Media queries */
 
+@media screen and (max-width: 400px) {
+  .form-field {
+    text-align: center;
+  }
+  label {
+    display: block;
+  }
+}
 @media screen and (min-width: 600px) and (max-width: 850px){
   #container{
     grid-template-areas: 

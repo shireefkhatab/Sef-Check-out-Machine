@@ -314,17 +314,3 @@ var category = 0;
   return changeArray;
 
 }
-// console.log(checkCashRegister(9.50, 10.00, [
-//     ["FIFTY", 0],
-//     ["TWENTY", 0],
-//     ["TEN", 0],
-//     ["FIVE", 0],
-//     ["TWO", 0],
-//     ["ONE", 0],
-//     ["HALF", 0.5],
-//     ["QUARTER", 0],
-//     ["DIME", 0.0],
-//     ["NICKEL", 0.0],
-//     ["2 PENNY", 0.0],
-//     ["PENNY", 0.0] 
-// ]))

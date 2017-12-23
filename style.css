@@ -88,7 +88,6 @@ img {
 	border: 1px solid #ccc;
 	padding: 5px;
 	text-align: right;
-	font-size: 0.8rem;
 }
 #priceCashForm .form-field {
   text-align: center;
@@ -183,9 +182,7 @@ th, td {
   "result     result   result     result     result   result"
   "result     result   result     result     result   result";
   }
-  .form-field {
-    font-size: 1rem;
-  }
+
 }
 @media screen and (min-width: 851px){
    
@@ -204,9 +201,7 @@ th, td {
     "clBtn      clBtn     rndBtn    rndBtn    cidForm   cidForm   cidForm   result    result    result    result    result"
     "clBtn      clBtn     rndBtn    rndBtn    cidForm   cidForm   cidForm   result    result    result    result    result";
     }
-    .form-field {
-      font-size: 1rem;
-    }
+
 }
 
 
